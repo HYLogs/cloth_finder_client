@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">clothfinder</string>
+    <string name="google_client_id">994780425934-j89p953161onjovejej9dm5vqpvs1feq.apps.googleusercontent.com</string>
+    <string name="user_image">사용자 이미지 입력 뷰</string>
+</resources>
