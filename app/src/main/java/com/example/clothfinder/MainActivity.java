@@ -185,12 +185,12 @@ public class MainActivity extends AppCompatActivity {
         sendImage.start();
     }
 
-    private void signOut() {
-        FirebaseAuth.getInstance().signOut();
-        Intent intent = new Intent(this, LoginActivity.class);
-        startActivity(intent);
-        finish();
-    }
+//    private void signOut() {
+//        FirebaseAuth.getInstance().signOut();
+//        Intent intent = new Intent(this, LoginActivity.class);
+//        startActivity();
+//        finish();
+//    }
 
     private void revokeAccess() {
         mAuth.getCurrentUser().delete();
