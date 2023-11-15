@@ -9,7 +9,7 @@ TV나 인터넷에서 어떤 옷의 정보가 궁금할 때 사용자가 간편�
 - 서버 GitHub: ["https://github.com/HYLogs/cloth_finder_socketServer"](https://github.com/HYLogs/cloth_finder_socketServer)
 
 ## 팀 인원
-- 박찬규: `JAVA Native Andriod`, `Front End`
+- 박찬규: `Front End`, `JAVA Native Andriod`
 - 유현승: `AI`, `YoloV5`
 - 이한영: `AI`, `MobileNeV2`, `JAVA Python socket Connet`, `Back End`
  
